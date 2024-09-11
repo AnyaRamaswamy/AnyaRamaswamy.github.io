@@ -1,1 +1,11 @@
 theme: jekyll-theme-merlot
+
+theme: merlot
+plugins:
+  - jekyll-feed
+
+# Add your custom CSS file
+sass:
+  style: compressed
+  load_paths:
+    - _sass
