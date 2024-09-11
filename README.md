@@ -1,9 +1,3 @@
-<style>
-.github-fork-ribbon {
-  display: none !important;
-}
-</style>
-
 # Anya Ramaswamy
 ### Welcome to my personal website! My name is Anya, and I am a...
 1. Current high school student
