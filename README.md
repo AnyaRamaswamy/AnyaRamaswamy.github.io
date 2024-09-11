@@ -1,5 +1,6 @@
 # Anya Ramaswamy
 ## Welcome to my personal website! My name is Anya, and I am a current high school student, entrepreneur, singer, F.R.I.E.N.D.S lover, and now a dabbler of web development! I'm so excited to share my journey with you all. Thanks for being here!
+![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/blob/main/MyWebsite/images/anyamain.JPG?raw=true)
 ### h3
 #### h4
 ##### h5
