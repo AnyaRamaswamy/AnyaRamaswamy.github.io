@@ -176,12 +176,9 @@ Contact us here.
 
 Music is a **HUGE** part of my life. I sing competitively and for leisure, and am delighted to get to share my progress in both of those avenues with you all!
 
-
-> Before the day I met you, life was so unkind.
+> "Before the day I met you, life was so unkind. But you're the key to my peace of mind."
 > 
-> But you're the key to my peace of mind.
-> 
->     - Arethra Franklin
+>  - Arethra Franklin
 
 ### Competitions
 
@@ -192,7 +189,7 @@ Music is a **HUGE** part of my life. I sing competitively and for leisure, and a
 - Second Place in Classical __
 - Third Place in Musical Theatre __
 
-### Here are some competition videos I submitted!
+###### Here are some competition videos I submitted!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T6lmm8r3_6o" frameborder="0" allowfullscreen></iframe>
 
@@ -205,16 +202,18 @@ Music is a **HUGE** part of my life. I sing competitively and for leisure, and a
 - Once a month, I sing songs for local retirement homes. Sometimes I play piano and sing simultaneously as well!
 - I love to post singing shorts on my Tik Tok. Check out @anyaramaswamy on Tik Tok for more!
 
-# Follow me on Tik Tok!
 
-[![TikTok Icon](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/raw/main/MyWebsite/images/7417368_tiktok_social%20media_tik%20tok_media_icon.png)](https://www.tiktok.com/@anyaramaswamy?_t=8pdnmZTzqYB&_r=1)
+<a href="https://www.tiktok.com/@anyaramaswamy?_t=8pdnmZTzqYB&_r=1" target="_blank">
+  <img src="https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/raw/main/MyWebsite/images/7417368_tiktok_social%20media_tik%20tok_media_icon.png" alt="TikTok" style="width: 30px; height: 30px;"/>
+</a>
 
 
-# Senior Retirement Homes
+
+###### Senior Retirement Homes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l2QhcwX1afI" frameborder="0" allowfullscreen></iframe>
 
-# Theatre Performances
+###### Theatre Performances
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nw_49a0a7Os" frameborder="0" allowfullscreen></iframe>
 
