@@ -1,5 +1,4 @@
-# Anya Ramaswamy
-### Welcome to my personal website! My name is Anya, and I am a...
+# I'm Anya and I am a...
 1. Current high school student
 2. Entrepreneur
 3. Singer
