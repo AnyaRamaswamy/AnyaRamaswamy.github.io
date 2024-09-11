@@ -1,5 +1,5 @@
-# h1
-## h2
+# Anya Ramaswamy
+## Welcome to my personal website! My name is Anya, and I am a current high school student, entrepreneur, singer, F.R.I.E.N.D.S lover, and now a dabbler of web development! I'm so excited to share my journey with you all. Thanks for being here!
 ### h3
 #### h4
 ##### h5
@@ -7,9 +7,9 @@
 
 ## Table of Contents
 
-[Introduction](#introduction)
-[Features](#features)
-[Contact](#contact)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Contact](#contact)
 
 ## Horizontal Rules
 
