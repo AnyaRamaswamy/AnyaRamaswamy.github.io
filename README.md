@@ -14,7 +14,7 @@
 
 ###### I am so excited to share my journey with all of you. Thank you for being here!
 
-<img src="https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/raw/main/MyWebsite/images/anyamain.JPG" alt="Anya's Main Image" style="border: none; width: 800px; height: auto;" />
+<img src="https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/raw/main/MyWebsite/images/anyamain.JPG" alt="Anya's Main Image" style="width: 100%; height: auto;" />
 
 
 ***
