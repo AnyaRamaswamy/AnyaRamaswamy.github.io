@@ -258,6 +258,7 @@ Music is a **HUGE** part of my life. I sing competitively and for leisure, and a
 ***
 
 
+[![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/raw/main/Screenshot%202024-09-11%20at%204.01.43%20PM.png)](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/raw/88a7c0d779ca8850a3bd6c18a30dc7e9f5643545/Anya%20Ramaswamy%20Resume.pdf)
 
 
 
