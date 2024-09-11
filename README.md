@@ -12,7 +12,7 @@
 > ```
 
 
-######I am so excited to share my journey with all of you. Thank you for being here!
+###### I am so excited to share my journey with all of you. Thank you for being here!
 
 ![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/blob/main/MyWebsite/images/anyamain.JPG?raw=true)
 
@@ -149,7 +149,8 @@ showSlide();
 
 I have gotten the chance to work on two exciting projects throughout my high school career: TealTie, and Boldoe!
 
-###TealTie
+### TealTie
+
 During my first years of high school, I began a startup called TealTie. TealTie is a clothing line designed to raise awareness about sexual assault prevention. All proceeds will be going to a sexual assault recovery center. I am a strong believer that clothing has the power to start a movement and create meaningful change. Our ecommerce store specializes in selling trendy and stylish sweaters that not only keep you warm, but also make a bold statement. 
 
 To be a part of our movement, or simply to learn more, check out the [TealTie](https://tealtie.com) website I built. Be a *TealTie Trendsetter*!
@@ -165,6 +166,7 @@ To learn more and check out some phenomenal artwork, check out the [Boldoe](http
 
 ![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/blob/main/MyWebsite/images/projectspics.png?raw=true)
 
+***
 ### h3
 #### h4
 ##### h5
