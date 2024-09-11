@@ -37,6 +37,37 @@
 | 7th-8th      | Wilmette Junior High School         | Found my love for singing and writing          |
 | 9th-12th     | New Trier High School               | Dabbled in web development and starting a business |
 
+
+### Courses
+
+Below I've listed some key courses I am planning on taking throughout my high school (these include the most important, but not all courses!). The checked courses are the *completed courses* and the unchecked are the *uncompleted courses*. The bolded courses are the **currently taken courses***. 
+
+###### Mathematics
+- [x] Geometry
+- [x] Algebra 2
+- [ ] **Precalc**
+- [ ] Statistics
+
+###### Science
+- [x] Geoscience
+- [x] Chemistry
+- [ ] **Biology**
+- [ ] Physics
+
+###### English
+- [x] AP Language and Culture
+- [ ] AP Literature and Studies
+
+###### History
+- [x] World History
+- [ ] **AP US History**
+- [ ] AP Economics
+- [ ] Philosophy
+
+###### Extracurriculars
+- [x] Theatre
+- [x] **Choir Opera**
+
 ***
 
 ### Interests
@@ -144,6 +175,7 @@ function moveSlide(step) {
 showSlide();
 </script>
 
+***
 
 ## Projects
 
@@ -170,14 +202,13 @@ To learn more and check out some phenomenal artwork, check out the [Boldoe](http
 
 ## Essays
 
-Here are some of my essays:
+I love to write, and storytelling is a huge part of who I am. Here are some of my essays I've recently written, and am in the middle of competing with:
 
-- [The Bitter Truth](https://anyaramaswamy.github.io/essays/bittertruth/)
+- [The Bitter Truth](https://anyaramaswamy.github.io/essays/bittertruth/) || *Recieved an Honorable Mention from Scholastic Awards*
 - [El Chapo](https://anyaramaswamy.github.io/essays/elchapo/)
 - [House 92](https://anyaramaswamy.github.io/essays/house92/)
 
-You can also see all essays on my [Essays Index Page](https://anyaramaswamy.github.io/essays/).
-
+***
 
 ## Singing
 
@@ -224,142 +255,8 @@ Music is a **HUGE** part of my life. I sing competitively and for leisure, and a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nw_49a0a7Os" frameborder="0" allowfullscreen></iframe>
 
-
-### h3
-#### h4
-##### h5
-###### h6
-## Horizontal Rules
-
----
-
-**or**
-
 ***
 
-**or**
-
-___
-
-
-## Emphasis
-
-**This is bold text**  <!-- Bold text with double asterisks -->
-
-__This is bold text__  <!-- Bold text with double underscores -->
-
-*This is italic text*  <!-- Italic text with single asterisks -->
-
-_This is italic text_  <!-- Italic text with single underscores -->
-
-# Blockquotes
-
-## Basic Blockquote
-
-> This is a blockquote.
-
-## Nested Blockquotes
-
-> This is a blockquote.
-> 
-> > This is a nested blockquote.
-
-## Blockquote with Multiple Paragraphs
-
-> This is a blockquote with multiple paragraphs.
-> 
-> This is the second paragraph of the blockquote.
-
-## Blockquote with Code
-
-> Here is some code inside a blockquote:
-> 
-> ```
-> function helloWorld() {
->     console.log("Hello, World!");
-> }
-> ```
-
-## Blockquote with Citation
-
-> "The only limit to our realization of tomorrow is our doubts of today."
-> 
-> — Franklin D. Roosevelt
-
-## Unordered Lists
-
-* Item 1
-* Item 2
-  * Subitem 2.1
-  * Subitem 2.2
-* Item 3
-
-+ Item A
-+ Item B
-  + Subitem B.1
-  + Subitem B.2
-
-- Item X
-- Item Y
-  - Subitem Y.1
-  - Subitem Y.2
-## Mixed Lists
-
-1. First item
-   * Unordered subitem
-   * Another unordered subitem
-2. Second item
-   1. Ordered subitem 2.1
-   2. Ordered subitem 2.2
-3. Third item
-
-## Task List
-
-- [ ] Task 1
-- [x] Completed Task 2
-- [ ] Task 3
-
-## Code
-
-Inline 'code'
-
-Indented code
-
-// Some comments
-line 1 of code
-line 2 of code
-line 3 of code
-
-Block code "fences"
-...
-Sample text here
-...
-
-Syntax highlighting
-''' js
-var foo = function(bar) {
-  return bar++;
-};
-
-console.log(foo(5))
-
-## Basic Table
-
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
-
-## Aligned Table
-
-| Left Aligned | Center Aligned | Right Aligned |
-|:------------ |:--------------:| ------------:|
-| Row 1 Col 1  | Row 1 Col 2    | Row 1 Col 3  |
-| Row 2 Col 1  | Row 2 Col 2    | Row 2 Col 3  |
-| Row 3 Col 1  | Row 3 Col 2    | Row 3 Col 3  |
-
-[Link Text](http://url.com "Optional Title Here")
 
 
 
