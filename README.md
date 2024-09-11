@@ -7,9 +7,12 @@
 5. Dabbler of web development!
 
 > ```
-> I'm so excited to share my journey with you all.
->       Thanks for being here!
+> Give your best, and leave the rest...
+>       - Mom
 > ```
+
+
+######I am so excited to share my journey with all of you. Thank you for being here!
 
 ![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/blob/main/MyWebsite/images/anyamain.JPG?raw=true)
 
@@ -17,7 +20,7 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Projects](#features)
+2. [Projects](#projects)
 3. [Essays](#contact)
 4. Singing
 5. Contact
@@ -140,6 +143,25 @@ function moveSlide(step) {
 
 showSlide();
 </script>
+
+
+## Projects
+
+I have gotten the chance to work on two exciting projects throughout my high school career: TealTie, and Boldoe!
+
+###TealTie
+During my first years of high school, I began a startup called TealTie. TealTie is a clothing line designed to raise awareness about sexual assault prevention. All proceeds will be going to a sexual assault recovery center. I am a strong believer that clothing has the power to start a movement and create meaningful change. Our ecommerce store specializes in selling trendy and stylish sweaters that not only keep you warm, but also make a bold statement. 
+
+To be a part of our movement, or simply to learn more, check out the [TealTie](https://tealtie.com) website I built. Be a *TealTie Trendsetter*!
+
+### Boldoe
+
+Another project I've gotten to work on is the startup Boldoe. Boldoe is all about encouraging female artisans (our *bold doe*)in remote villages of South India to sell and earn from their paddy straw art (a 2000 year old art form). It began before the invention of paints, dyes or other forms of color application. This is an art at the edge of extinction, and these women have such unique skills that deserve to be showcased. 
+
+Leaves of rice paddy plant are handpicked and dried to become straws. Each straw is cut to the right size and glued by hand using tree-sap, one straw at a time onto a crepe silk canvas to create this masterpiece. Each piece takes several months to make, depending on the complexity of the art. 
+
+To learn more and check out some phenomenal artwork, check out the [Boldoe](https://boldoe.com) website. Let's support out Bold Doe!
+
 
 
 ### h3
@@ -279,9 +301,7 @@ console.log(foo(5))
 [Link Text](http://url.com "Optional Title Here")
 
 
-## Introduction
 
-Welcome to the introduction section.
 
 ## Features
 
