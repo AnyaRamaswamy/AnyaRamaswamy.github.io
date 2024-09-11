@@ -56,7 +56,7 @@ Below I've listed some key courses I am planning on taking throughout my high sc
 
 ###### English
 - [ ] **AP Language and Culture**
-- [ ] AP Literature and Studies
+- [ ] AP Great Books
 
 ###### History
 - [x] World History
@@ -77,9 +77,9 @@ Catcher in the Rye || JD Salinger
 #### Favorite Movie: 
 Shawshank Redemption
 #### Favorite Food: 
-Panang Curry from Thai Tanium Restaurant in Gaithersburg 
+Panang Curry || Thai Tanium Restaurant, Gaithersburg MD
 #### Favorite Icon: 
-Tim Robbins
+Robin Williams
 
 ***
 
