@@ -170,7 +170,14 @@ To learn more and check out some phenomenal artwork, check out the [Boldoe](http
 
 ## Essays
 
-Contact us here.
+Here are some of my essays:
+
+- [The Bitter Truth](https://anyaramaswamy.github.io/essays/bittertruth/)
+- [El Chapo](https://anyaramaswamy.github.io/essays/elchapo/)
+- [House 92](https://anyaramaswamy.github.io/essays/house92/)
+
+You can also see all essays on my [Essays Index Page](https://anyaramaswamy.github.io/essays/).
+
 
 ## Singing
 
