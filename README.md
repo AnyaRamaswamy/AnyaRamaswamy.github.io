@@ -22,9 +22,8 @@
 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-3. [Essays](#contact)
-4. Singing
-5. Contact
+3. [Essays](#essays)
+4. [Singing](#singing)
 
 ## Introduction
 
@@ -162,12 +161,59 @@ Another project I've gotten to work on is the startup Boldoe. Boldoe is all abou
 
 Leaves of rice paddy plant are handpicked and dried to become straws. Each straw is cut to the right size and glued by hand using tree-sap, one straw at a time onto a crepe silk canvas to create this masterpiece. Each piece takes several months to make, depending on the complexity of the art. 
 
-To learn more and check out some phenomenal artwork, check out the [Boldoe](https://boldoe.com) website. Let's support out Bold Doe!
+To learn more and check out some phenomenal artwork, check out the [Boldoe](https://boldoe.com) website. Let's support our Bold Doe!
 
 
 ![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/blob/main/MyWebsite/images/Screenshot%202024-09-11%20at%202.04.54%20PM.png?raw=true)
 
 ***
+
+## Essays
+
+Contact us here.
+
+## Singing
+
+Music is a **HUGE** part of my life. I sing competitively and for leisure, and am delighted to get to share my progress in both of those avenues with you all!
+
+
+> Before the day I met you, life was so unkind.
+> 
+> But you're the key to my peace of mind.
+> 
+>     - Arethra Franklin
+
+### Competitions
+
+## Awards
+
+- Semifinalist for SCHMIDT Vocal Competition
+- First Place in Jazz __
+- Second Place in Classical __
+- Third Place in Musical Theatre __
+
+### Here are some competition videos I submitted!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T6lmm8r3_6o" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cWJWY0BT2zw" frameborder="0" allowfullscreen></iframe>
+
+
+## Leisure
+
+- Once a month, I sing songs for local retirement homes. Sometimes I play piano and sing simultaneously as well!
+- I love to post singing shorts on my Tik Tok. Check out @anyaramaswamy on Tik Tok for more!
+
+# Senior Retirement Homes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l2QhcwX1afI" frameborder="0" allowfullscreen></iframe>
+
+# Theatre Performances
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nw_49a0a7Os" frameborder="0" allowfullscreen></iframe>
+
+
 ### h3
 #### h4
 ##### h5
@@ -307,13 +353,8 @@ console.log(foo(5))
 
 
 
-## Features
 
-Here are some features.
 
-## Contact
-
-Contact us here.
 
 
 
