@@ -11,6 +11,12 @@
 >       - Mom
 > ```
 
+<style>
+.github-fork-ribbon {
+  display: none !important;
+}
+</style>
+
 
 ###### I am so excited to share my journey with all of you. Thank you for being here!
 
