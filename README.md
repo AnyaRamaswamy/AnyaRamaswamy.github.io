@@ -56,7 +56,7 @@ Tim Robbins
 --
 #### September Edition
 --
-####### Literature has always been a **huge part** of my life. To bring the novelty and fresh air some simple words can bring to humanity, I thought to share a carousel of *5 quotes* that inspired me this month. Hopefully they'll inspire you too. The writer in me sure hopes so. 
+###### Literature has always been a **huge part** of my life. To bring the novelty and fresh air some simple words can bring to humanity, I thought to share a carousel of *5 quotes* that inspired me this month. Hopefully they'll inspire you too. The writer in me sure hopes so. 
 
 <style>
 .carousel {
