@@ -163,7 +163,7 @@ Leaves of rice paddy plant are handpicked and dried to become straws. Each straw
 To learn more and check out some phenomenal artwork, check out the [Boldoe](https://boldoe.com) website. Let's support out Bold Doe!
 
 
-![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/blob/main/MyWebsite/images/anyamain.JPG?raw=true)
+![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/blob/main/MyWebsite/images/projectspics.png?raw=true)
 
 ### h3
 #### h4
