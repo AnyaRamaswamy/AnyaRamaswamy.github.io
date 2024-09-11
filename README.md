@@ -1,3 +1,9 @@
+<style>
+.github-fork-ribbon {
+  display: none !important;
+}
+</style>
+
 # Anya Ramaswamy
 ### Welcome to my personal website! My name is Anya, and I am a...
 1. Current high school student
@@ -10,12 +16,6 @@
 > Give your best, and leave the rest...
 >       - Mom
 > ```
-
-<style>
-.github-fork-ribbon {
-  display: none !important;
-}
-</style>
 
 
 ###### I am so excited to share my journey with all of you. Thank you for being here!
