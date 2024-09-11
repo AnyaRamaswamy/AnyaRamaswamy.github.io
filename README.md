@@ -55,7 +55,7 @@ Below I've listed some key courses I am planning on taking throughout my high sc
 - [ ] Physics
 
 ###### English
-- [x] AP Language and Culture
+- [ ] **AP Language and Culture**
 - [ ] AP Literature and Studies
 
 ###### History
