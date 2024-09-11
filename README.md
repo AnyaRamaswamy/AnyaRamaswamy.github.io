@@ -5,7 +5,12 @@
 3. Singer
 4. F.R.I.E.N.D.S lover
 5. Dabbler of web development!
-##### I'm so excited to share my journey with you all. Thanks for being here!
+
+> ```
+> I'm so excited to share my journey with you all.
+>       Thanks for being here!
+> ```
+
 ![Alt text](https://github.com/AnyaRamaswamy/AnyaRamaswamy.github.io/blob/main/MyWebsite/images/anyamain.JPG?raw=true)
 
 ***
@@ -16,30 +21,39 @@
 3. [Essays](#contact)
 4. Singing
 5. Contact
-***
+
 ## Introduction
 
 ### Education
-| Year| School | Learnings |
-|:----------:|:----------:|:----------:|
-| K-2th | Julia Brown Montesory School *MD* | Starting my first formal education experience |
-| 3rd-4th | Brooke Grove Elementary School *MD* | Transitioning from a private to public school setting |
-| 5th-6th | Highcrest Middle School *IL*| Moving from one state to another |
-| 7th-8th | Wilmette Junior High School | Found my love for singing and writing |
-| 9th-12th | New Trier High School | Dabbled in web development and starting a business |
+
+| Year        | School                              | Learnings                                      |
+|-------------|-------------------------------------|------------------------------------------------|
+| K-2nd        | Julia Brown Montessori School *MD*  | Starting my first formal education experience |
+| 3rd-4th      | Brooke Grove Elementary School *MD* | Transitioning from private to public school setting |
+| 5th-6th      | Highcrest Middle School *IL*        | Moving from one state to another               |
+| 7th-8th      | Wilmette Junior High School         | Found my love for singing and writing          |
+| 9th-12th     | New Trier High School               | Dabbled in web development and starting a business |
+
 ***
 
 ### Interests
 
-#### Favorite Book: Catcher in the Rye || JD Salinger
-#### Favorite Movie: Shawshank Redemption
-#### Favorite Food: Panang Curry from Thai Tanium Restaurant in Gaithersburg 
-#### Favorite Icon: Tim Robbins
+#### Favorite Book: 
+Catcher in the Rye || JD Salinger
+#### Favorite Movie: 
+Shawshank Redemption
+#### Favorite Food: 
+Panang Curry from Thai Tanium Restaurant in Gaithersburg 
+#### Favorite Icon: 
+Tim Robbins
 
 ***
 
-### Quote of the Month
-###### Literature has always been a huge part of my life. To bring the novelty and fresh air some simple words can bring to humanity, I thought to share a carousel of 5 quotes that inspired me this month. Hopefully they'll inspire you too. The writer in me sure hopes so. 
+### Quotes of the Month
+--
+#### September Edition
+--
+####### Literature has always been a **huge part** of my life. To bring the novelty and fresh air some simple words can bring to humanity, I thought to share a carousel of *5 quotes* that inspired me this month. Hopefully they'll inspire you too. The writer in me sure hopes so. 
 
 <style>
 .carousel {
